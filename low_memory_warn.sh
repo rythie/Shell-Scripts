@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Warn when your system gets low in memory
+# Warn when your system gets low on memory
 #
 # Use Ok, to accept warning a get further ones
 # Use Quit, to stop getting messages
